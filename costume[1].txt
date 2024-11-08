@@ -1,0 +1,5 @@
+sport, gucci, $12,48
+Suit, Armani, $10,51
+T-Shirt, H&M, $12,50
+pant, louis, $20,50
+kurtha, ind, $8,50
